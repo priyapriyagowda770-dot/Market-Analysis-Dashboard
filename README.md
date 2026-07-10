@@ -43,7 +43,7 @@ The Market Analysis Dashboard is an interactive Power BI project designed to ana
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Created by 
 
 **Priyanka HN**
 
